@@ -5,3 +5,6 @@
 {"time":"2025-03-17T19:37:53.356813+05:30","level":"INFO","msg":"handler: started","stream_id":"z5l54bzi"}
 {"time":"2025-03-17T19:37:53.356813+05:30","level":"INFO","msg":"sender: started","stream_id":"z5l54bzi"}
 {"time":"2025-03-17T19:37:54.1880881+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T19:37:55.745865+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T19:38:00.9230882+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T19:38:02.1020592+05:30","level":"INFO","msg":"Pausing system monitor"}

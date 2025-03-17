@@ -24,3 +24,13 @@ config: {'epochs': 10, 'batch_size': 64, 'learning_rate': 0.001, 'activation_f':
 2025-03-17 20:23:20,222 INFO    Thread-376 (_run_job):13080 [wandb_run.py:_redirect():2292] Wrapping output streams.
 2025-03-17 20:23:20,223 INFO    Thread-376 (_run_job):13080 [wandb_run.py:_redirect():2315] Redirects installed.
 2025-03-17 20:23:20,229 INFO    Thread-376 (_run_job):13080 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-17 20:46:50,580 INFO    Thread-376 (_run_job):13080 [wandb_run.py:_finish():2112] finishing run anshul_2010-indian-institute-of-technology-madras/DA6401-Assignment1/py5eyx0x
+2025-03-17 20:46:50,603 ERROR   Thread-376 (_run_job):13080 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-03-17 20:46:50,603 INFO    Thread-376 (_run_job):13080 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 20:46:50,604 INFO    Thread-376 (_run_job):13080 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-17 20:46:50,605 INFO    Thread-376 (_run_job):13080 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-03-17 20:46:50,607 INFO    Thread-376 (_run_job):13080 [wandb_run.py:_restore():2322] restore
+2025-03-17 20:46:50,612 INFO    Thread-376 (_run_job):13080 [wandb_run.py:_restore():2328] restore done
+2025-03-17 20:46:52,735 INFO    Thread-376 (_run_job):13080 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-03-17 20:46:52,743 INFO    Thread-376 (_run_job):13080 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-03-17 20:46:52,746 INFO    Thread-376 (_run_job):13080 [wandb_run.py:_footer_sync_info():3917] logging synced files

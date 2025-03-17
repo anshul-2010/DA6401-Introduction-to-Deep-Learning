@@ -9,3 +9,35 @@ Epoch number : 8
 Training cost:  2.3020397445310867 	Validation cost: 2.301684421348236
 Epoch number : 10
 Training cost:  2.300881685727007 	Validation cost: 2.3005302226711546
+Epoch number : 12
+Training cost:  2.2959714160008633 	Validation cost: 2.295708779509509
+Epoch number : 14
+Training cost:  2.2617407750773233 	Validation cost: 2.2616082177504206
+Epoch number : 16
+Training cost:  1.7983319575957482 	Validation cost: 1.7987883447741755
+Epoch number : 18
+Training cost:  1.429739645098622 	Validation cost: 1.4416951157021227
+Epoch number : 20
+Training cost:  0.7671217280774255 	Validation cost: 0.7780689099007163
+Epoch number : 22
+Training cost:  0.5436956631211262 	Validation cost: 0.5652047493757508
+Epoch number : 24
+Training cost:  0.4787332982231497 	Validation cost: 0.5142084740880325
+Epoch number : 26
+Training cost:  0.4400602608706976 	Validation cost: 0.4849300778986308
+Epoch number : 28
+Training cost:  0.4245557290434077 	Validation cost: 0.4759484139758882
+Epoch number : 30
+Training cost:  0.4211568116227663 	Validation cost: 0.4800213633851933
+Epoch number : 32
+Training cost:  0.4125838877455828 	Validation cost: 0.4788995692280173
+Epoch number : 34
+Training cost:  0.402274832182817 	Validation cost: 0.47452626797884995
+Epoch number : 36
+Training cost:  0.3949401207929913 	Validation cost: 0.47306951760704374
+Epoch number : 38
+Training cost:  0.3822475491418302 	Validation cost: 0.4633796509624331
+Epoch number : 40
+Training cost:  0.3374543576905441 	Validation cost: 0.4315069920370216
+
+Final training cost: 0.35374173011225696

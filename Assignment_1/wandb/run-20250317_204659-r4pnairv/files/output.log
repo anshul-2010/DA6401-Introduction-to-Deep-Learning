@@ -1,0 +1,43 @@
+lr_0.0001_ac_relu_in_random_normal_op_RMSprop_bs_128_L2_0.0005_ep_40_nn_64_nh_5
+Epoch number : 2
+Training cost:  2.302582693569978 	Validation cost: 2.3026099316074684
+Epoch number : 4
+Training cost:  2.3025800029615144 	Validation cost: 2.3026475285838135
+Epoch number : 6
+Training cost:  2.3025787639497666 	Validation cost: 2.3026758803946974
+Epoch number : 8
+Training cost:  2.302578249701651 	Validation cost: 2.3026971489850974
+Epoch number : 10
+Training cost:  2.302578085492815 	Validation cost: 2.3027130901120936
+Epoch number : 12
+Training cost:  2.3025780815137074 	Validation cost: 2.302724932087407
+Epoch number : 14
+Training cost:  2.3025781414857867 	Validation cost: 2.302733704074081
+Epoch number : 16
+Training cost:  2.302578219422712 	Validation cost: 2.3027401887843086
+Epoch number : 18
+Training cost:  2.3025782949084035 	Validation cost: 2.3027449756653438
+Epoch number : 20
+Training cost:  2.302578360159974 	Validation cost: 2.3027485055842085
+Epoch number : 22
+Training cost:  2.3025784133521454 	Validation cost: 2.302751106687197
+Epoch number : 24
+Training cost:  2.302578455242362 	Validation cost: 2.3027530223807977
+Epoch number : 26
+Training cost:  2.3025784875175517 	Validation cost: 2.3027544327712715
+Epoch number : 28
+Training cost:  2.3025785120255464 	Validation cost: 2.3027554708922175
+Epoch number : 30
+Training cost:  2.302578530451089 	Validation cost: 2.3027562348840007
+Epoch number : 32
+Training cost:  2.302578544207585 	Validation cost: 2.30275679708103
+Epoch number : 34
+Training cost:  2.302578554427574 	Validation cost: 2.302757210763672
+Epoch number : 36
+Training cost:  2.302578561993403 	Validation cost: 2.3027575151600104
+Epoch number : 38
+Training cost:  2.3025785675800976 	Validation cost: 2.302757739143265
+Epoch number : 40
+Training cost:  2.302578571697759 	Validation cost: 2.3027579039608232
+
+Final training cost: 2.302578573329266

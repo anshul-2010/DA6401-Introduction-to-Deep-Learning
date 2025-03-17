@@ -5,3 +5,9 @@ Epoch number : 4
 Training cost:  0.29011582213062614 	Validation cost: 0.2922628131032803
 Epoch number : 6
 Training cost:  nan 	Validation cost: nan
+Epoch number : 8
+Training cost:  nan 	Validation cost: nan
+Epoch number : 10
+Training cost:  nan 	Validation cost: nan
+
+Final training cost: nan

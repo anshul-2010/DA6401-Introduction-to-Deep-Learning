@@ -1,0 +1,19 @@
+mse_lr_0.0001_ac_relu_in_random_normal_op_nadam_bs_16_L2_0_ep_20_nn_128_nh_4
+Epoch number : 2
+Training cost:  0.4499998341119152 	Validation cost: 0.4500068884301309
+Epoch number : 4
+Training cost:  0.45000063148945785 	Validation cost: 0.4500145429723135
+Epoch number : 6
+Training cost:  0.45000064630134123 	Validation cost: 0.4500158679416185
+Epoch number : 8
+Training cost:  0.4500003094242746 	Validation cost: 0.4500157727541867
+Epoch number : 10
+Training cost:  0.4499997232411493 	Validation cost: 0.4500151841835839
+Epoch number : 12
+Training cost:  0.4499987593942109 	Validation cost: 0.45001417380851094
+Epoch number : 14
+Training cost:  0.449996928526156 	Validation cost: 0.4500122708923703
+Epoch number : 16
+Training cost:  0.4499924430997061 	Validation cost: 0.45000762324762056
+Epoch number : 18
+Training cost:  0.4499709283737882 	Validation cost: 0.4499856085977268

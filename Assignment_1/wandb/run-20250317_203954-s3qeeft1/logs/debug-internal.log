@@ -1,0 +1,7 @@
+{"time":"2025-03-17T20:39:54.3480194+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\Dell\\Desktop\\Courses\\Sem_VIII\\DA6401\\DA6401-Introduction-to-Deep-Learning\\Assignment_1\\wandb\\run-20250317_203954-s3qeeft1\\logs\\debug-core.log"}
+{"time":"2025-03-17T20:39:54.7872851+05:30","level":"INFO","msg":"created new stream","id":"s3qeeft1"}
+{"time":"2025-03-17T20:39:54.7872851+05:30","level":"INFO","msg":"stream: started","id":"s3qeeft1"}
+{"time":"2025-03-17T20:39:54.7963956+05:30","level":"INFO","msg":"sender: started","stream_id":"s3qeeft1"}
+{"time":"2025-03-17T20:39:54.7963956+05:30","level":"INFO","msg":"handler: started","stream_id":"s3qeeft1"}
+{"time":"2025-03-17T20:39:54.7963956+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"s3qeeft1"}
+{"time":"2025-03-17T20:39:55.7269543+05:30","level":"INFO","msg":"Starting system monitor"}

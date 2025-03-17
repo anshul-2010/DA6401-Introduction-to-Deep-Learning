@@ -1,0 +1,13 @@
+mse_lr_0.001_ac_relu_in_random_normal_op_nestorov_bs_256_L2_0.0005_ep_10_nn_128_nh_3
+Epoch number : 2
+Training cost:  0.44999920222395157 	Validation cost: 0.4499997829396801
+Epoch number : 4
+Training cost:  0.44999920222395157 	Validation cost: 0.4499997829396801
+Epoch number : 6
+Training cost:  0.44999920222395157 	Validation cost: 0.4499997829396801
+Epoch number : 8
+Training cost:  0.44999920222395157 	Validation cost: 0.4499997829396801
+Epoch number : 10
+Training cost:  0.44999920222395157 	Validation cost: 0.4499997829396801
+
+Final training cost: 0.44999920222395157

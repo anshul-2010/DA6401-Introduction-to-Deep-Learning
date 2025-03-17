@@ -1,0 +1,16 @@
+{"time":"2025-03-17T20:32:16.2692996+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\Dell\\Desktop\\Courses\\Sem_VIII\\DA6401\\DA6401-Introduction-to-Deep-Learning\\Assignment_1\\wandb\\run-20250317_203216-h8emey1n\\logs\\debug-core.log"}
+{"time":"2025-03-17T20:32:16.4207095+05:30","level":"INFO","msg":"created new stream","id":"h8emey1n"}
+{"time":"2025-03-17T20:32:16.4207095+05:30","level":"INFO","msg":"stream: started","id":"h8emey1n"}
+{"time":"2025-03-17T20:32:16.4207095+05:30","level":"INFO","msg":"sender: started","stream_id":"h8emey1n"}
+{"time":"2025-03-17T20:32:16.4207095+05:30","level":"INFO","msg":"handler: started","stream_id":"h8emey1n"}
+{"time":"2025-03-17T20:32:16.4212802+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"h8emey1n"}
+{"time":"2025-03-17T20:32:17.1050997+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T20:33:35.7015744+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T20:33:35.7506624+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T20:33:37.0746876+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-03-17T20:33:39.5772028+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T20:33:40.0772719+05:30","level":"INFO","msg":"stream: closing","id":"h8emey1n"}
+{"time":"2025-03-17T20:33:40.078222+05:30","level":"INFO","msg":"handler: closed","stream_id":"h8emey1n"}
+{"time":"2025-03-17T20:33:40.0787524+05:30","level":"INFO","msg":"sender: closed","stream_id":"h8emey1n"}
+{"time":"2025-03-17T20:33:40.0787524+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"h8emey1n"}
+{"time":"2025-03-17T20:33:40.0797517+05:30","level":"INFO","msg":"stream: closed","id":"h8emey1n"}

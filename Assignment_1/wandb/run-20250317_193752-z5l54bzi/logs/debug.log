@@ -16,3 +16,14 @@ config: {'_wandb': {}}
 2025-03-17 19:37:53,099 INFO    MainThread:19296 [wandb_run.py:_label_probe_notebook():1204] probe notebook
 2025-03-17 19:37:53,315 INFO    MainThread:19296 [wandb_init.py:init():891] updated telemetry
 2025-03-17 19:37:53,451 INFO    MainThread:19296 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-17 19:37:54,160 INFO    MainThread:19296 [wandb_init.py:init():990] starting run threads in backend
+2025-03-17 19:37:55,716 INFO    MainThread:19296 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-17 19:37:55,717 INFO    MainThread:19296 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-17 19:37:55,717 INFO    MainThread:19296 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-17 19:37:55,717 INFO    MainThread:19296 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-17 19:37:55,733 INFO    MainThread:19296 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-17 19:37:55,737 INFO    MainThread:19296 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 19:37:55,737 INFO    MainThread:19296 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-17 19:38:00,909 INFO    MainThread:19296 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-17 19:38:02,081 INFO    MainThread:19296 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 19:38:02,081 INFO    MainThread:19296 [wandb_init.py:_pause_backend():564] pausing backend
