@@ -95,5 +95,7 @@ The function NN_evaluate() takes the parameters, the activation function, train 
 ```python
 
 ```
-Report Link: https://api.wandb.ai/links/anshul_2010-indian-institute-of-technology-madras/9ddtmy77
-Github Repository Link: https://github.com/anshul-2010/DA6401-Introduction-to-Deep-Learning/tree/main/Assignment_1
+
+Following are the links to the important documentations:
+- Report Link: https://api.wandb.ai/links/anshul_2010-indian-institute-of-technology-madras/9ddtmy77
+- Github Repository Link: https://github.com/anshul-2010/DA6401-Introduction-to-Deep-Learning/tree/main/Assignment_1
