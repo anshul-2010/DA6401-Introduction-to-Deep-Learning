@@ -1,0 +1,13 @@
+lr_0.0001_ac_relu_in_xavier_op_nadam_bs_16_L2_0_ep_10_nn_32_nh_3
+Epoch number : 2
+Training cost:  0.13875110771779703 	Validation cost: 0.14392819647553975
+Epoch number : 4
+Training cost:  nan 	Validation cost: nan
+Epoch number : 6
+Training cost:  nan 	Validation cost: nan
+Epoch number : 8
+Training cost:  nan 	Validation cost: nan
+Epoch number : 10
+Training cost:  nan 	Validation cost: nan
+
+Final training cost: nan

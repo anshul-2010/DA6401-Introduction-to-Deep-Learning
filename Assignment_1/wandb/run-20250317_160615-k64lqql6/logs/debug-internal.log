@@ -1,0 +1,16 @@
+{"time":"2025-03-17T16:06:15.8626385+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\Dell\\Desktop\\Courses\\Sem_VIII\\DA6401\\DA6401-Introduction-to-Deep-Learning\\Assignment_1\\wandb\\run-20250317_160615-k64lqql6\\logs\\debug-core.log"}
+{"time":"2025-03-17T16:06:16.0602414+05:30","level":"INFO","msg":"created new stream","id":"k64lqql6"}
+{"time":"2025-03-17T16:06:16.0613077+05:30","level":"INFO","msg":"stream: started","id":"k64lqql6"}
+{"time":"2025-03-17T16:06:16.0613077+05:30","level":"INFO","msg":"sender: started","stream_id":"k64lqql6"}
+{"time":"2025-03-17T16:06:16.0613077+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"k64lqql6"}
+{"time":"2025-03-17T16:06:16.0613077+05:30","level":"INFO","msg":"handler: started","stream_id":"k64lqql6"}
+{"time":"2025-03-17T16:06:16.6682657+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T16:12:31.7376603+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T16:12:31.7507869+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T16:12:32.7692584+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 38-39, summary, console lines 39-42","runtime_seconds":0.2164137},{"desc":"updating run config","runtime_seconds":0.1014437}],"total_operations":2}}
+{"time":"2025-03-17T16:12:33.8821748+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T16:12:34.2555071+05:30","level":"INFO","msg":"stream: closing","id":"k64lqql6"}
+{"time":"2025-03-17T16:12:34.2555071+05:30","level":"INFO","msg":"handler: closed","stream_id":"k64lqql6"}
+{"time":"2025-03-17T16:12:34.2575772+05:30","level":"INFO","msg":"sender: closed","stream_id":"k64lqql6"}
+{"time":"2025-03-17T16:12:34.2555071+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"k64lqql6"}
+{"time":"2025-03-17T16:12:34.2575772+05:30","level":"INFO","msg":"stream: closed","id":"k64lqql6"}

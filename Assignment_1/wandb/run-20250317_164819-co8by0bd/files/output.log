@@ -1,0 +1,13 @@
+lr_0.0001_ac_tanh_in_random_uniform_op_momentum_bs_64_L2_0_ep_10_nn_32_nh_4
+Epoch number : 2
+Training cost:  2.3025834191993133 	Validation cost: 2.302584264821002
+Epoch number : 4
+Training cost:  2.3025830241808625 	Validation cost: 2.302586506861315
+Epoch number : 6
+Training cost:  2.302582637818471 	Validation cost: 2.3025887133474474
+Epoch number : 8
+Training cost:  2.302582259822373 	Validation cost: 2.302590884727509
+Epoch number : 10
+Training cost:  2.302581889912347 	Validation cost: 2.302593021446921
+
+Final training cost: 2.302581707904575

@@ -1,0 +1,13 @@
+lr_0.001_ac_sigmoid_in_random_uniform_op_nadam_bs_32_L2_0_ep_10_nn_128_nh_3
+Epoch number : 2
+Training cost:  1.783438278795805 	Validation cost: 1.792032781924021
+Epoch number : 4
+Training cost:  0.9585564445841309 	Validation cost: 0.9764729996022269
+Epoch number : 6
+Training cost:  0.4815662632672801 	Validation cost: 0.4871816723837742
+Epoch number : 8
+Training cost:  0.4223879862829891 	Validation cost: 0.44358562292148446
+Epoch number : 10
+Training cost:  0.3816176910011365 	Validation cost: 0.41817455208461507
+
+Final training cost: 0.3886794407157141

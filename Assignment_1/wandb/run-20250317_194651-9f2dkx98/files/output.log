@@ -1,0 +1,10 @@
+mse_lr_0.001_ac_tanh_in_xavier_op_adam_bs_16_L2_0.0005_ep_5_nn_64_nh_4
+Epoch number : 2
+Training cost:  0.13527659771907685 	Validation cost: 0.1378758433226524
+Epoch number : 4
+Training cost:  0.1021113708748047 	Validation cost: 0.10821547868988246
+Epoch number : 6
+Training cost:  0.11058615875652614 	Validation cost: 0.11961544565687991
+
+Final training cost: 0.11058615875652614
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.run.save without any arguments is deprecated.Changes to attributes are automatically persisted.

@@ -1,0 +1,9 @@
+lr_0.0001_ac_relu_in_xavier_op_RMSprop_bs_32_L2_0_ep_20_nn_128_nh_3
+Epoch number : 2
+Training cost:  0.1288113781823761 	Validation cost: 0.13331460855318422
+Epoch number : 4
+Training cost:  0.1016084910813651 	Validation cost: 0.10666429606619372
+Epoch number : 6
+Training cost:  0.0906353957010998 	Validation cost: 0.09737995707218138
+Epoch number : 8
+Training cost:  0.08462217500931969 	Validation cost: 0.09298249587144704

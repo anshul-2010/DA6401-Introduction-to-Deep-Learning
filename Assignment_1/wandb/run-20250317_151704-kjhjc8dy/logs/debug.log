@@ -1,0 +1,60 @@
+2025-03-17 15:17:04,652 INFO    MainThread:12356 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\Dell\Desktop\Courses\Sem_VIII\DA6401\DA6401-Introduction-to-Deep-Learning\Assignment_1\wandb\run-20250317_151704-kjhjc8dy\logs\debug.log
+2025-03-17 15:17:04,655 INFO    MainThread:12356 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\Dell\Desktop\Courses\Sem_VIII\DA6401\DA6401-Introduction-to-Deep-Learning\Assignment_1\wandb\run-20250317_151704-kjhjc8dy\logs\debug-internal.log
+2025-03-17 15:17:04,658 INFO    MainThread:12356 [wandb_init.py:init():761] calling init triggers
+2025-03-17 15:17:04,659 INFO    MainThread:12356 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-17 15:17:04,660 INFO    MainThread:12356 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-17 15:17:04,676 INFO    MainThread:12356 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 15:17:04,677 INFO    MainThread:12356 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-17 15:17:14,062 INFO    MainThread:12356 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-17 15:17:14,303 INFO    MainThread:12356 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 15:17:14,303 INFO    MainThread:12356 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-17 15:45:15,831 INFO    MainThread:12356 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-17 15:45:15,917 INFO    MainThread:12356 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 15:45:15,940 INFO    MainThread:12356 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-17 15:45:16,676 INFO    MainThread:12356 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-17 15:45:16,704 INFO    MainThread:12356 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 15:45:16,713 INFO    MainThread:12356 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-17 15:45:18,937 INFO    MainThread:12356 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-17 15:45:18,948 INFO    MainThread:12356 [wandb_run.py:_finish():2112] finishing run anshul_2010-indian-institute-of-technology-madras/DA6401-Assignment1/gmnk308p
+2025-03-17 15:45:18,991 ERROR   MainThread:12356 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-03-17 15:45:18,991 INFO    MainThread:12356 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 15:45:18,991 INFO    MainThread:12356 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-17 15:45:19,001 INFO    MainThread:12356 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-03-17 15:45:19,008 INFO    MainThread:12356 [wandb_run.py:_restore():2322] restore
+2025-03-17 15:45:19,011 INFO    MainThread:12356 [wandb_run.py:_restore():2328] restore done
+2025-03-17 15:45:20,619 INFO    MainThread:12356 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-03-17 15:45:20,621 INFO    MainThread:12356 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-03-17 15:45:20,624 INFO    MainThread:12356 [wandb_run.py:_footer_sync_info():3917] logging synced files
+2025-03-17 15:59:35,741 INFO    MainThread:12356 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\Dell\Desktop\Courses\Sem_VIII\DA6401\DA6401-Introduction-to-Deep-Learning\Assignment_1\wandb\run-20250317_155935-wmn33y0y\logs\debug.log
+2025-03-17 15:59:35,743 INFO    MainThread:12356 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\Dell\Desktop\Courses\Sem_VIII\DA6401\DA6401-Introduction-to-Deep-Learning\Assignment_1\wandb\run-20250317_155935-wmn33y0y\logs\debug-internal.log
+2025-03-17 15:59:35,743 INFO    MainThread:12356 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x00000180314BFF10>
+2025-03-17 15:59:35,744 INFO    MainThread:12356 [wandb_init.py:init():761] calling init triggers
+2025-03-17 15:59:35,744 INFO    MainThread:12356 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-17 15:59:35,745 INFO    MainThread:12356 [wandb_init.py:init():784] starting backend
+2025-03-17 15:59:35,745 INFO    MainThread:12356 [wandb_init.py:init():788] sending inform_init request
+2025-03-17 15:59:35,803 INFO    MainThread:12356 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-03-17 15:59:35,809 INFO    MainThread:12356 [wandb_init.py:init():798] backend started and connected
+2025-03-17 15:59:35,934 INFO    MainThread:12356 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-17 15:59:35,961 INFO    MainThread:12356 [wandb_init.py:init():891] updated telemetry
+2025-03-17 15:59:36,104 INFO    MainThread:12356 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-17 15:59:36,873 INFO    MainThread:12356 [wandb_init.py:init():990] starting run threads in backend
+2025-03-17 15:59:37,793 INFO    MainThread:12356 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-17 15:59:37,795 INFO    MainThread:12356 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-17 15:59:37,795 INFO    MainThread:12356 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-17 15:59:37,800 INFO    MainThread:12356 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-17 15:59:37,803 INFO    MainThread:12356 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-17 15:59:37,807 INFO    MainThread:12356 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 15:59:37,807 INFO    MainThread:12356 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-17 16:00:09,609 INFO    MainThread:12356 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-17 16:00:09,613 INFO    MainThread:12356 [wandb_run.py:_finish():2112] finishing run anshul_2010-indian-institute-of-technology-madras/DA6401-Assignment1/wmn33y0y
+2025-03-17 16:00:09,618 ERROR   MainThread:12356 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-03-17 16:00:09,618 INFO    MainThread:12356 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 16:00:09,618 INFO    MainThread:12356 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-17 16:00:09,619 INFO    MainThread:12356 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-03-17 16:00:09,619 INFO    MainThread:12356 [wandb_run.py:_restore():2322] restore
+2025-03-17 16:00:09,620 INFO    MainThread:12356 [wandb_run.py:_restore():2328] restore done
+2025-03-17 16:00:11,692 INFO    MainThread:12356 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-03-17 16:00:11,694 INFO    MainThread:12356 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-03-17 16:00:11,694 INFO    MainThread:12356 [wandb_run.py:_footer_sync_info():3917] logging synced files

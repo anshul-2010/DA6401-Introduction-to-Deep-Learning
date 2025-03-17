@@ -1,0 +1,9 @@
+lr_0.0001_ac_sigmoid_in_xavier_op_momentum_bs_16_L2_0.5_ep_5_nn_64_nh_3
+Epoch number : 2
+Training cost:  2.3681230139023377 	Validation cost: 2.3821882106811443
+Epoch number : 4
+Training cost:  2.307991468278257 	Validation cost: 2.318720902670008
+Epoch number : 6
+Training cost:  2.301949866364773 	Validation cost: 2.311430014369434
+
+Final training cost: 2.301949866364773

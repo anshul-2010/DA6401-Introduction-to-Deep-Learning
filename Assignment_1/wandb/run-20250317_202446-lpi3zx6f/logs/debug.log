@@ -1,0 +1,21 @@
+2025-03-17 20:24:46,440 INFO    Thread-61 (_run_job):17008 [wandb_setup.py:_flush():67] Current SDK version is 0.19.8
+2025-03-17 20:24:46,440 INFO    Thread-61 (_run_job):17008 [wandb_setup.py:_flush():67] Configure stats pid to 17008
+2025-03-17 20:24:46,441 INFO    Thread-61 (_run_job):17008 [wandb_setup.py:_flush():67] Loading settings from C:\Users\Dell\.config\wandb\settings
+2025-03-17 20:24:46,441 INFO    Thread-61 (_run_job):17008 [wandb_setup.py:_flush():67] Loading settings from c:\Users\Dell\Desktop\Courses\Sem_VIII\DA6401\DA6401-Introduction-to-Deep-Learning\Assignment_1\wandb\settings
+2025-03-17 20:24:46,441 INFO    Thread-61 (_run_job):17008 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-17 20:24:46,442 INFO    Thread-61 (_run_job):17008 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\Dell\Desktop\Courses\Sem_VIII\DA6401\DA6401-Introduction-to-Deep-Learning\Assignment_1\wandb\run-20250317_202446-lpi3zx6f\logs\debug.log
+2025-03-17 20:24:46,442 INFO    Thread-61 (_run_job):17008 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\Dell\Desktop\Courses\Sem_VIII\DA6401\DA6401-Introduction-to-Deep-Learning\Assignment_1\wandb\run-20250317_202446-lpi3zx6f\logs\debug-internal.log
+2025-03-17 20:24:46,442 INFO    Thread-61 (_run_job):17008 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001D6B3B49010>
+2025-03-17 20:24:46,443 INFO    Thread-61 (_run_job):17008 [wandb_init.py:init():761] calling init triggers
+2025-03-17 20:24:46,443 INFO    Thread-61 (_run_job):17008 [wandb_init.py:init():766] wandb.init called with sweep_config: {'L2_lamb': 0, 'activation_f': 'relu', 'batch_size': 16, 'epochs': 10, 'init_mode': 'random_normal', 'learning_rate': 0.0001, 'num_hidden': 3, 'num_neurons': 128, 'optimizer': 'adam'}
+config: {'epochs': 10, 'batch_size': 64, 'learning_rate': 0.001, 'activation_f': 'relu', 'optimizer': 'adam', 'init_mode': 'xavier', 'L2_lamb': 0, 'num_neurons': 64, 'num_hidden': 3, '_wandb': {}}
+2025-03-17 20:24:46,443 INFO    Thread-61 (_run_job):17008 [wandb_init.py:init():784] starting backend
+2025-03-17 20:24:46,444 INFO    Thread-61 (_run_job):17008 [wandb_init.py:init():788] sending inform_init request
+2025-03-17 20:24:46,453 INFO    Thread-61 (_run_job):17008 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-03-17 20:24:46,453 INFO    Thread-61 (_run_job):17008 [wandb_init.py:init():798] backend started and connected
+2025-03-17 20:24:46,456 INFO    Thread-61 (_run_job):17008 [wandb_run.py:_config_callback():1261] config_cb None None {'L2_lamb': 0, 'activation_f': 'relu', 'batch_size': 16, 'epochs': 10, 'init_mode': 'random_normal', 'learning_rate': 0.0001, 'num_hidden': 3, 'num_neurons': 128, 'optimizer': 'adam'}
+2025-03-17 20:24:46,557 INFO    Thread-61 (_run_job):17008 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-17 20:24:46,591 INFO    Thread-61 (_run_job):17008 [wandb_run.py:_label_probe_notebook():1214] Unable to probe notebook: 'charmap' codec can't decode byte 0x81 in position 117746: character maps to <undefined>
+2025-03-17 20:24:46,591 INFO    Thread-61 (_run_job):17008 [wandb_init.py:init():891] updated telemetry
+2025-03-17 20:24:46,748 INFO    Thread-61 (_run_job):17008 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-17 20:24:47,202 INFO    Thread-61 (_run_job):17008 [wandb_init.py:init():990] starting run threads in backend

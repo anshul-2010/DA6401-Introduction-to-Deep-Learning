@@ -1,0 +1,23 @@
+lr_0.001_ac_tanh_in_random_uniform_op_sgd_bs_128_L2_0.0005_ep_20_nn_32_nh_4
+Epoch number : 2
+Training cost:  2.3025826500058684 	Validation cost: 2.302588673014828
+Epoch number : 4
+Training cost:  2.302580850013321 	Validation cost: 2.3025990617397465
+Epoch number : 6
+Training cost:  2.3025792238737086 	Validation cost: 2.302608635873851
+Epoch number : 8
+Training cost:  2.3025777443324733 	Validation cost: 2.302617447998229
+Epoch number : 10
+Training cost:  2.3025763883267834 	Validation cost: 2.302625548472032
+Epoch number : 12
+Training cost:  2.30257513633775 	Validation cost: 2.30263298529433
+Epoch number : 14
+Training cost:  2.3025739718422997 	Validation cost: 2.302639804025984
+Epoch number : 16
+Training cost:  2.302572880849476 	Validation cost: 2.3026460477592643
+Epoch number : 18
+Training cost:  2.302571851508208 	Validation cost: 2.302651757125005
+Epoch number : 20
+Training cost:  2.302570873775597 	Validation cost: 2.3026569703289064
+
+Final training cost: 2.3025704015486057

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T18:28:44.9871308+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\Dell\\Desktop\\Courses\\Sem_VIII\\DA6401\\DA6401-Introduction-to-Deep-Learning\\Assignment_1\\wandb\\run-20250317_182844-pyj2rsng\\logs\\debug-core.log"}
+{"time":"2025-03-17T18:28:45.1209555+05:30","level":"INFO","msg":"created new stream","id":"pyj2rsng"}
+{"time":"2025-03-17T18:28:45.1209555+05:30","level":"INFO","msg":"stream: started","id":"pyj2rsng"}
+{"time":"2025-03-17T18:28:45.1214897+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pyj2rsng"}
+{"time":"2025-03-17T18:28:45.1269991+05:30","level":"INFO","msg":"sender: started","stream_id":"pyj2rsng"}
+{"time":"2025-03-17T18:28:45.1269991+05:30","level":"INFO","msg":"handler: started","stream_id":"pyj2rsng"}
+{"time":"2025-03-17T18:28:45.6286871+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T18:29:26.0421974+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T18:29:26.0579453+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T18:29:27.0605932+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.3743853},{"desc":"uploading output.log","runtime_seconds":0.053391,"progress":"384B/384B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.053391,"progress":"251B/251B"}],"total_operations":3}}
+{"time":"2025-03-17T18:29:27.8399195+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T18:29:28.3391303+05:30","level":"INFO","msg":"stream: closing","id":"pyj2rsng"}
+{"time":"2025-03-17T18:29:28.3469936+05:30","level":"INFO","msg":"handler: closed","stream_id":"pyj2rsng"}
+{"time":"2025-03-17T18:29:28.3469936+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"pyj2rsng"}
+{"time":"2025-03-17T18:29:28.3489923+05:30","level":"INFO","msg":"sender: closed","stream_id":"pyj2rsng"}
+{"time":"2025-03-17T18:29:28.3489923+05:30","level":"INFO","msg":"stream: closed","id":"pyj2rsng"}

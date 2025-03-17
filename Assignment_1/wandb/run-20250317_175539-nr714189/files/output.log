@@ -1,0 +1,13 @@
+lr_0.0001_ac_sigmoid_in_random_uniform_op_momentum_bs_512_L2_0.5_ep_10_nn_64_nh_5
+Epoch number : 2
+Training cost:  2.3026566057062667 	Validation cost: 2.302596938075893
+Epoch number : 4
+Training cost:  2.3026511627721353 	Validation cost: 2.3026038545894543
+Epoch number : 6
+Training cost:  2.3026461542573946 	Validation cost: 2.3026106963462913
+Epoch number : 8
+Training cost:  2.302641545392207 	Validation cost: 2.302617449346911
+Epoch number : 10
+Training cost:  2.3026373041848482 	Validation cost: 2.3026241015371447
+
+Final training cost: 2.302635312160528

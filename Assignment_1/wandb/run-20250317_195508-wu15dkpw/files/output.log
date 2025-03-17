@@ -1,0 +1,23 @@
+mse_lr_0.001_ac_relu_in_xavier_op_nestorov_bs_256_L2_0.0005_ep_20_nn_128_nh_3
+Epoch number : 2
+Training cost:  0.4522593026884565 	Validation cost: 0.45281221998220367
+Epoch number : 4
+Training cost:  0.4522593026884565 	Validation cost: 0.45281221998220367
+Epoch number : 6
+Training cost:  0.4522593026884565 	Validation cost: 0.45281221998220367
+Epoch number : 8
+Training cost:  0.4522593026884565 	Validation cost: 0.45281221998220367
+Epoch number : 10
+Training cost:  0.4522593026884565 	Validation cost: 0.45281221998220367
+Epoch number : 12
+Training cost:  0.4522593026884565 	Validation cost: 0.45281221998220367
+Epoch number : 14
+Training cost:  0.4522593026884565 	Validation cost: 0.45281221998220367
+Epoch number : 16
+Training cost:  0.4522593026884565 	Validation cost: 0.45281221998220367
+Epoch number : 18
+Training cost:  0.4522593026884565 	Validation cost: 0.45281221998220367
+Epoch number : 20
+Training cost:  0.4522593026884565 	Validation cost: 0.45281221998220367
+
+Final training cost: 0.4522593026884565

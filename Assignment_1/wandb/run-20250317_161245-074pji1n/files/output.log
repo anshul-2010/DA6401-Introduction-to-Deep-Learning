@@ -1,0 +1,23 @@
+lr_0.001_ac_relu_in_xavier_op_momentum_bs_128_L2_0.5_ep_20_nn_32_nh_3
+Epoch number : 2
+Training cost:  2.166972543578729 	Validation cost: 2.1768772489508863
+Epoch number : 4
+Training cost:  1.8207460148819283 	Validation cost: 1.8365753366250157
+Epoch number : 6
+Training cost:  1.3917358752893119 	Validation cost: 1.4081201643207772
+Epoch number : 8
+Training cost:  1.1220701924081606 	Validation cost: 1.1378130931645452
+Epoch number : 10
+Training cost:  0.9799372406571315 	Validation cost: 0.9956531879443605
+Epoch number : 12
+Training cost:  0.8931357592374369 	Validation cost: 0.9084185606697096
+Epoch number : 14
+Training cost:  0.8342217101419322 	Validation cost: 0.849320688807475
+Epoch number : 16
+Training cost:  0.7916142591048243 	Validation cost: 0.8066326854889486
+Epoch number : 18
+Training cost:  0.7585697420814221 	Validation cost: 0.7735978381663361
+Epoch number : 20
+Training cost:  0.7310678420480368 	Validation cost: 0.7460939193996342
+
+Final training cost: 0.7184177000036102

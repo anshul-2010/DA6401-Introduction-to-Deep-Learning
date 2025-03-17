@@ -1,0 +1,43 @@
+lr_0.0001_ac_relu_in_random_normal_op_nadam_bs_512_L2_0.5_ep_40_nn_128_nh_3
+Epoch number : 2
+Training cost:  2.3025744001346506 	Validation cost: 2.3030681431629954
+Epoch number : 4
+Training cost:  2.3024725055005932 	Validation cost: 2.302976774492386
+Epoch number : 6
+Training cost:  2.302195142340601 	Validation cost: 2.3027163681722476
+Epoch number : 8
+Training cost:  2.2998147160988496 	Validation cost: 2.3003518174424773
+Epoch number : 10
+Training cost:  1.7578633110122326 	Validation cost: 1.7623271047138045
+Epoch number : 12
+Training cost:  1.1038989632765417 	Validation cost: 1.110208639258309
+Epoch number : 14
+Training cost:  1.0055321018390653 	Validation cost: 1.015653262749724
+Epoch number : 16
+Training cost:  0.9687506271184689 	Validation cost: 0.9793557593908578
+Epoch number : 18
+Training cost:  0.9459077409641756 	Validation cost: 0.9568332790021551
+Epoch number : 20
+Training cost:  0.9255551864011822 	Validation cost: 0.937266336232439
+Epoch number : 22
+Training cost:  0.9108592990265313 	Validation cost: 0.9229436228231765
+Epoch number : 24
+Training cost:  0.891368474249315 	Validation cost: 0.9032609305149412
+Epoch number : 26
+Training cost:  0.8638748072564353 	Validation cost: 0.8758233006780956
+Epoch number : 28
+Training cost:  0.8180280795486311 	Validation cost: 0.8284689283915297
+Epoch number : 30
+Training cost:  0.7693053858656996 	Validation cost: 0.7774889242874424
+Epoch number : 32
+Training cost:  0.7382193217811017 	Validation cost: 0.745254910162497
+Epoch number : 34
+Training cost:  0.7115385249864479 	Validation cost: 0.7187450807396879
+Epoch number : 36
+Training cost:  0.6847162716737449 	Validation cost: 0.6923145064252342
+Epoch number : 38
+Training cost:  0.6607326645408802 	Validation cost: 0.6692312646836295
+Epoch number : 40
+Training cost:  0.6395899242946335 	Validation cost: 0.648562272271545
+
+Final training cost: 0.6278478579729427

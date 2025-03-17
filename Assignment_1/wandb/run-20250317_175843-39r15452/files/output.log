@@ -1,0 +1,13 @@
+lr_0.0001_ac_relu_in_random_uniform_op_RMSprop_bs_16_L2_0.5_ep_10_nn_64_nh_5
+Epoch number : 2
+Training cost:  2.3025811311434916 	Validation cost: 2.3026283149904128
+Epoch number : 4
+Training cost:  2.302578650217121 	Validation cost: 2.302671548353098
+Epoch number : 6
+Training cost:  2.3025780134934646 	Validation cost: 2.3026902881118176
+Epoch number : 8
+Training cost:  2.3025778182658736 	Validation cost: 2.3026983027783183
+Epoch number : 10
+Training cost:  2.302577748947359 	Validation cost: 2.3027017116001343
+
+Final training cost: 2.3025777324448744

@@ -1,0 +1,9 @@
+lr_0.0001_ac_tanh_in_random_uniform_op_nestorov_bs_256_L2_0_ep_5_nn_32_nh_5
+Epoch number : 2
+Training cost:  2.302584775814175 	Validation cost: 2.3025847492897817
+Epoch number : 4
+Training cost:  2.302584775814175 	Validation cost: 2.3025847492897817
+Epoch number : 6
+Training cost:  2.302584775814175 	Validation cost: 2.3025847492897817
+
+Final training cost: 2.302584775814175

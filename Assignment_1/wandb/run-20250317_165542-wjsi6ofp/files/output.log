@@ -1,0 +1,23 @@
+lr_0.0001_ac_tanh_in_xavier_op_RMSprop_bs_16_L2_0.0005_ep_20_nn_32_nh_5
+Epoch number : 2
+Training cost:  0.5328410694959324 	Validation cost: 0.5406486897580064
+Epoch number : 4
+Training cost:  0.4037616574744662 	Validation cost: 0.417042887010716
+Epoch number : 6
+Training cost:  0.3687272275351915 	Validation cost: 0.3872727428871089
+Epoch number : 8
+Training cost:  0.35031221127185 	Validation cost: 0.3739741866012437
+Epoch number : 10
+Training cost:  0.33871226038204844 	Validation cost: 0.36740868432043194
+Epoch number : 12
+Training cost:  0.33009941781344115 	Validation cost: 0.36400308071846316
+Epoch number : 14
+Training cost:  0.3224891875485471 	Validation cost: 0.36159678919991073
+Epoch number : 16
+Training cost:  0.31497166211734495 	Validation cost: 0.358989213863421
+Epoch number : 18
+Training cost:  0.30748822221512667 	Validation cost: 0.3561675280314315
+Epoch number : 20
+Training cost:  0.30038654386361524 	Validation cost: 0.3535909206241686
+
+Final training cost: 0.2970424654909244

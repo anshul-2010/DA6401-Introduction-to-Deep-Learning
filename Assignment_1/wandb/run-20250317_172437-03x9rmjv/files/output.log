@@ -1,0 +1,13 @@
+lr_0.001_ac_relu_in_random_uniform_op_nadam_bs_32_L2_0.0005_ep_10_nn_64_nh_4
+Epoch number : 2
+Training cost:  0.994712652911656 	Validation cost: 0.9966891131358002
+Epoch number : 4
+Training cost:  1.0367704730192344 	Validation cost: 1.0871376551598524
+Epoch number : 6
+Training cost:  0.9665412546731347 	Validation cost: 1.0321410452857867
+Epoch number : 8
+Training cost:  0.8314457957014112 	Validation cost: 0.8835945488844171
+Epoch number : 10
+Training cost:  nan 	Validation cost: nan
+
+Final training cost: nan

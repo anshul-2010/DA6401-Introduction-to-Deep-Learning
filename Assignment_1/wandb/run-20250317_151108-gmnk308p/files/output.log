@@ -1,0 +1,5 @@
+Number of images in the training set = 48000
+Number of images in the validation set = 12000
+Number of images in the test set = 10000
+Number of classes = 10
+Number of features per example = 784

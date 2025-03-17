@@ -1,0 +1,20 @@
+wandb_version: 1
+
+L2_lamb:
+  value: 0
+activation_f:
+  value: relu
+batch_size:
+  value: 512
+epochs:
+  value: 20
+init_mode:
+  value: xavier
+learning_rate:
+  value: 0.0001
+num_hidden:
+  value: 5
+num_neurons:
+  value: 64
+optimizer:
+  value: nadam

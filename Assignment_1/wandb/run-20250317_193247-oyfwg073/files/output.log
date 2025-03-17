@@ -1,0 +1,9 @@
+lr_0.001_ac_sigmoid_in_xavier_op_sgd_bs_32_L2_0.5_ep_5_nn_64_nh_5
+Epoch number : 2
+Training cost:  2.304603751977253 	Validation cost: 2.3188243145615854
+Epoch number : 4
+Training cost:  2.3041295536544686 	Validation cost: 2.316591795499077
+Epoch number : 6
+Training cost:  2.303976099402708 	Validation cost: 2.3151908627680817
+
+Final training cost: 2.303976099402708

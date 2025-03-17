@@ -1,0 +1,13 @@
+lr_0.0001_ac_tanh_in_xavier_op_sgd_bs_64_L2_0.0005_ep_10_nn_128_nh_3
+Epoch number : 2
+Training cost:  2.136699614461298 	Validation cost: 2.142817220601999
+Epoch number : 4
+Training cost:  1.8257842671880988 	Validation cost: 1.8339873612903512
+Epoch number : 6
+Training cost:  1.6035638615968235 	Validation cost: 1.6141552145501574
+Epoch number : 8
+Training cost:  1.4379061799123973 	Validation cost: 1.4498426015487185
+Epoch number : 10
+Training cost:  1.3122666669409835 	Validation cost: 1.324853683853991
+
+Final training cost: 1.2606316993480893

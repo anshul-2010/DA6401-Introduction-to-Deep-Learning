@@ -1,0 +1,16 @@
+{"time":"2025-03-17T18:37:38.7042922+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\Dell\\Desktop\\Courses\\Sem_VIII\\DA6401\\DA6401-Introduction-to-Deep-Learning\\Assignment_1\\wandb\\run-20250317_183738-tg12qkoz\\logs\\debug-core.log"}
+{"time":"2025-03-17T18:37:38.8726051+05:30","level":"INFO","msg":"created new stream","id":"tg12qkoz"}
+{"time":"2025-03-17T18:37:38.8726051+05:30","level":"INFO","msg":"stream: started","id":"tg12qkoz"}
+{"time":"2025-03-17T18:37:38.8726051+05:30","level":"INFO","msg":"sender: started","stream_id":"tg12qkoz"}
+{"time":"2025-03-17T18:37:38.8726051+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tg12qkoz"}
+{"time":"2025-03-17T18:37:38.8726051+05:30","level":"INFO","msg":"handler: started","stream_id":"tg12qkoz"}
+{"time":"2025-03-17T18:37:39.2824195+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T18:42:19.1033725+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T18:42:19.1058927+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T18:42:20.1191933+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.0699523,"progress":"1.8KB/1.8KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.0699523,"progress":"253B/253B"}],"total_operations":2}}
+{"time":"2025-03-17T18:42:20.7071832+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T18:42:21.1268851+05:30","level":"INFO","msg":"stream: closing","id":"tg12qkoz"}
+{"time":"2025-03-17T18:42:21.1268851+05:30","level":"INFO","msg":"handler: closed","stream_id":"tg12qkoz"}
+{"time":"2025-03-17T18:42:21.1268851+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tg12qkoz"}
+{"time":"2025-03-17T18:42:21.1278846+05:30","level":"INFO","msg":"sender: closed","stream_id":"tg12qkoz"}
+{"time":"2025-03-17T18:42:21.1278846+05:30","level":"INFO","msg":"stream: closed","id":"tg12qkoz"}

@@ -1,0 +1,23 @@
+lr_0.0001_ac_relu_in_random_normal_op_sgd_bs_32_L2_0_ep_20_nn_128_nh_4
+Epoch number : 2
+Training cost:  2.3025832934994424 	Validation cost: 2.3025860981993973
+Epoch number : 4
+Training cost:  2.3025823393661398 	Validation cost: 2.3025902826007107
+Epoch number : 6
+Training cost:  2.3025815771458387 	Validation cost: 2.3025945128090144
+Epoch number : 8
+Training cost:  2.3025809444984446 	Validation cost: 2.3025986964596403
+Epoch number : 10
+Training cost:  2.3025804598163035 	Validation cost: 2.302602859663526
+Epoch number : 12
+Training cost:  2.3025800105096415 	Validation cost: 2.302606902921646
+Epoch number : 14
+Training cost:  2.3025795881824633 	Validation cost: 2.302610822463397
+Epoch number : 16
+Training cost:  2.3025791902566715 	Validation cost: 2.3026146218925923
+Epoch number : 18
+Training cost:  2.302578815036696 	Validation cost: 2.3026183030613163
+Epoch number : 20
+Training cost:  2.302578460915872 	Validation cost: 2.3026218701532732
+
+Final training cost: 2.302578291172217

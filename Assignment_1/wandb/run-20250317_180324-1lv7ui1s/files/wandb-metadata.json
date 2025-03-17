@@ -1,0 +1,31 @@
+{
+  "os":  "Windows-10-10.0.19045-SP0",
+  "python":  "CPython 3.11.4",
+  "startedAt":  "2025-03-17T12:33:24.743889Z",
+  "program":  "c:\\Users\\Dell\\Desktop\\Courses\\Sem_VIII\\DA6401\\DA6401-Introduction-to-Deep-Learning\\Assignment_1\\Assignment_1_Deep_Learning_wandb.ipynb",
+  "codePath":  "Assignment_1\\Assignment_1_Deep_Learning_wandb.ipynb",
+  "git":  {
+    "remote":  "https://github.com/anshul-2010/DA6401-Introduction-to-Deep-Learning.git",
+    "commit":  "4e1620319a147245613a2fcc1bc483edcbb39470"
+  },
+  "email":  "be21b005@smail.iitm.ac.in",
+  "root":  "c:\\Users\\Dell\\Desktop\\Courses\\Sem_VIII\\DA6401\\DA6401-Introduction-to-Deep-Learning\\Assignment_1",
+  "host":  "DESKTOP-FOHK0FI",
+  "executable":  "c:\\Users\\Dell\\Desktop\\Courses\\Sem_VIII\\DA6401\\DA6401-Introduction-to-Deep-Learning\\Assignment1\\Scripts\\python.exe",
+  "codePathLocal":  "Assignment_1_Deep_Learning_wandb.ipynb",
+  "cpu_count":  2,
+  "cpu_count_logical":  4,
+  "disk":  {
+    "/":  {
+      "total":  "255401992192",
+      "used":  "238904389632"
+    }
+  },
+  "memory":  {
+    "total":  "8467341312"
+  },
+  "cpu":  {
+    "count":  2,
+    "countLogical":  4
+  }
+}

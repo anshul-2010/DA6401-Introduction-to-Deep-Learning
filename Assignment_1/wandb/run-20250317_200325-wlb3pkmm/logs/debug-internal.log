@@ -1,0 +1,16 @@
+{"time":"2025-03-17T20:03:25.4218399+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\Dell\\Desktop\\Courses\\Sem_VIII\\DA6401\\DA6401-Introduction-to-Deep-Learning\\Assignment_1\\wandb\\run-20250317_200325-wlb3pkmm\\logs\\debug-core.log"}
+{"time":"2025-03-17T20:03:25.7952263+05:30","level":"INFO","msg":"created new stream","id":"wlb3pkmm"}
+{"time":"2025-03-17T20:03:25.7952263+05:30","level":"INFO","msg":"stream: started","id":"wlb3pkmm"}
+{"time":"2025-03-17T20:03:25.7952263+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wlb3pkmm"}
+{"time":"2025-03-17T20:03:25.7962146+05:30","level":"INFO","msg":"sender: started","stream_id":"wlb3pkmm"}
+{"time":"2025-03-17T20:03:25.7962146+05:30","level":"INFO","msg":"handler: started","stream_id":"wlb3pkmm"}
+{"time":"2025-03-17T20:03:26.254256+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T20:21:11.6357286+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T20:21:11.6418021+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T20:21:12.7365126+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.236767,"progress":"1.0KB/1.0KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.236767,"progress":"243B/243B"}],"total_operations":2}}
+{"time":"2025-03-17T20:21:13.3363533+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T20:21:13.7867305+05:30","level":"INFO","msg":"stream: closing","id":"wlb3pkmm"}
+{"time":"2025-03-17T20:21:13.7867305+05:30","level":"INFO","msg":"handler: closed","stream_id":"wlb3pkmm"}
+{"time":"2025-03-17T20:21:13.7867305+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"wlb3pkmm"}
+{"time":"2025-03-17T20:21:13.7877325+05:30","level":"INFO","msg":"sender: closed","stream_id":"wlb3pkmm"}
+{"time":"2025-03-17T20:21:13.7877325+05:30","level":"INFO","msg":"stream: closed","id":"wlb3pkmm"}

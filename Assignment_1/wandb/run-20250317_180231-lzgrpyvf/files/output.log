@@ -1,0 +1,13 @@
+lr_0.001_ac_relu_in_random_uniform_op_sgd_bs_512_L2_0.5_ep_10_nn_64_nh_3
+Epoch number : 2
+Training cost:  2.3020235486696667 	Validation cost: 2.3020666705109534
+Epoch number : 4
+Training cost:  2.3005614866210924 	Validation cost: 2.3005110817544794
+Epoch number : 6
+Training cost:  2.299114492778706 	Validation cost: 2.298971476686389
+Epoch number : 8
+Training cost:  2.2976499602013365 	Validation cost: 2.2974130776995443
+Epoch number : 10
+Training cost:  2.296139327459197 	Validation cost: 2.295805320181569
+
+Final training cost: 2.29535861652922

@@ -1,0 +1,7 @@
+mse_lr_0.0001_ac_relu_in_random_normal_op_adam_bs_16_L2_0_ep_10_nn_128_nh_3
+Epoch number : 2
+Training cost:  0.44998266329393805 	Validation cost: 0.44998964342393505
+Epoch number : 4
+Training cost:  0.29011582213062614 	Validation cost: 0.2922628131032803
+Epoch number : 6
+Training cost:  nan 	Validation cost: nan

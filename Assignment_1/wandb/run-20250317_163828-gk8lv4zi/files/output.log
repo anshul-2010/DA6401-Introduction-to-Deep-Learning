@@ -1,0 +1,43 @@
+lr_0.001_ac_relu_in_random_uniform_op_nestorov_bs_32_L2_0.5_ep_40_nn_64_nh_4
+Epoch number : 2
+Training cost:  2.302689914063644 	Validation cost: 2.302772657127864
+Epoch number : 4
+Training cost:  2.302689914063644 	Validation cost: 2.302772657127864
+Epoch number : 6
+Training cost:  2.302689914063644 	Validation cost: 2.302772657127864
+Epoch number : 8
+Training cost:  2.302689914063644 	Validation cost: 2.302772657127864
+Epoch number : 10
+Training cost:  2.302689914063644 	Validation cost: 2.302772657127864
+Epoch number : 12
+Training cost:  2.302689914063644 	Validation cost: 2.302772657127864
+Epoch number : 14
+Training cost:  2.302689914063644 	Validation cost: 2.302772657127864
+Epoch number : 16
+Training cost:  2.302689914063644 	Validation cost: 2.302772657127864
+Epoch number : 18
+Training cost:  2.302689914063644 	Validation cost: 2.302772657127864
+Epoch number : 20
+Training cost:  2.302689914063644 	Validation cost: 2.302772657127864
+Epoch number : 22
+Training cost:  2.302689914063644 	Validation cost: 2.302772657127864
+Epoch number : 24
+Training cost:  2.302689914063644 	Validation cost: 2.302772657127864
+Epoch number : 26
+Training cost:  2.302689914063644 	Validation cost: 2.302772657127864
+Epoch number : 28
+Training cost:  2.302689914063644 	Validation cost: 2.302772657127864
+Epoch number : 30
+Training cost:  2.302689914063644 	Validation cost: 2.302772657127864
+Epoch number : 32
+Training cost:  2.302689914063644 	Validation cost: 2.302772657127864
+Epoch number : 34
+Training cost:  2.302689914063644 	Validation cost: 2.302772657127864
+Epoch number : 36
+Training cost:  2.302689914063644 	Validation cost: 2.302772657127864
+Epoch number : 38
+Training cost:  2.302689914063644 	Validation cost: 2.302772657127864
+Epoch number : 40
+Training cost:  2.302689914063644 	Validation cost: 2.302772657127864
+
+Final training cost: 2.302689914063644

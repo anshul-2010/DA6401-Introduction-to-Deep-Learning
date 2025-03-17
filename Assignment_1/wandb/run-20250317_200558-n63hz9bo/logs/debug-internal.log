@@ -1,0 +1,16 @@
+{"time":"2025-03-17T20:05:58.5960868+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\Dell\\Desktop\\Courses\\Sem_VIII\\DA6401\\DA6401-Introduction-to-Deep-Learning\\Assignment_1\\wandb\\run-20250317_200558-n63hz9bo\\logs\\debug-core.log"}
+{"time":"2025-03-17T20:05:58.8860051+05:30","level":"INFO","msg":"created new stream","id":"n63hz9bo"}
+{"time":"2025-03-17T20:05:58.8860051+05:30","level":"INFO","msg":"stream: started","id":"n63hz9bo"}
+{"time":"2025-03-17T20:05:58.8915557+05:30","level":"INFO","msg":"handler: started","stream_id":"n63hz9bo"}
+{"time":"2025-03-17T20:05:58.892626+05:30","level":"INFO","msg":"sender: started","stream_id":"n63hz9bo"}
+{"time":"2025-03-17T20:05:58.892626+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"n63hz9bo"}
+{"time":"2025-03-17T20:05:59.3843235+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T20:08:38.3495582+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T20:08:38.3555066+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T20:08:39.4244559+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.2758796,"progress":"559B/559B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.2758796,"progress":"254B/254B"}],"total_operations":2}}
+{"time":"2025-03-17T20:08:39.8507387+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T20:08:40.2705192+05:30","level":"INFO","msg":"stream: closing","id":"n63hz9bo"}
+{"time":"2025-03-17T20:08:40.2705192+05:30","level":"INFO","msg":"handler: closed","stream_id":"n63hz9bo"}
+{"time":"2025-03-17T20:08:40.2705192+05:30","level":"INFO","msg":"sender: closed","stream_id":"n63hz9bo"}
+{"time":"2025-03-17T20:08:40.2705192+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"n63hz9bo"}
+{"time":"2025-03-17T20:08:40.2716209+05:30","level":"INFO","msg":"stream: closed","id":"n63hz9bo"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T17:07:39.719107+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\Dell\\Desktop\\Courses\\Sem_VIII\\DA6401\\DA6401-Introduction-to-Deep-Learning\\Assignment_1\\wandb\\run-20250317_170739-fdov38lr\\logs\\debug-core.log"}
+{"time":"2025-03-17T17:07:39.9099541+05:30","level":"INFO","msg":"created new stream","id":"fdov38lr"}
+{"time":"2025-03-17T17:07:39.9099541+05:30","level":"INFO","msg":"stream: started","id":"fdov38lr"}
+{"time":"2025-03-17T17:07:39.910937+05:30","level":"INFO","msg":"handler: started","stream_id":"fdov38lr"}
+{"time":"2025-03-17T17:07:39.9119429+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"fdov38lr"}
+{"time":"2025-03-17T17:07:39.9119429+05:30","level":"INFO","msg":"sender: started","stream_id":"fdov38lr"}
+{"time":"2025-03-17T17:07:40.4065328+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T17:10:50.9712444+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T17:10:50.9748551+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T17:10:51.985691+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.020385,"progress":"1.9KB/1.9KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.020385,"progress":"254B/254B"}],"total_operations":2}}
+{"time":"2025-03-17T17:10:52.6358714+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T17:10:52.9842+05:30","level":"INFO","msg":"stream: closing","id":"fdov38lr"}
+{"time":"2025-03-17T17:10:52.9842+05:30","level":"INFO","msg":"handler: closed","stream_id":"fdov38lr"}
+{"time":"2025-03-17T17:10:52.9842+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"fdov38lr"}
+{"time":"2025-03-17T17:10:52.9879097+05:30","level":"INFO","msg":"sender: closed","stream_id":"fdov38lr"}
+{"time":"2025-03-17T17:10:52.9879097+05:30","level":"INFO","msg":"stream: closed","id":"fdov38lr"}

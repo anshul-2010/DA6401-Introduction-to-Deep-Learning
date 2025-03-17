@@ -1,0 +1,16 @@
+{"time":"2025-03-17T18:06:16.9894129+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\Dell\\Desktop\\Courses\\Sem_VIII\\DA6401\\DA6401-Introduction-to-Deep-Learning\\Assignment_1\\wandb\\run-20250317_180616-9m1dwhlt\\logs\\debug-core.log"}
+{"time":"2025-03-17T18:06:17.1906876+05:30","level":"INFO","msg":"created new stream","id":"9m1dwhlt"}
+{"time":"2025-03-17T18:06:17.1906876+05:30","level":"INFO","msg":"stream: started","id":"9m1dwhlt"}
+{"time":"2025-03-17T18:06:17.1916851+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"9m1dwhlt"}
+{"time":"2025-03-17T18:06:17.1916851+05:30","level":"INFO","msg":"handler: started","stream_id":"9m1dwhlt"}
+{"time":"2025-03-17T18:06:17.1916851+05:30","level":"INFO","msg":"sender: started","stream_id":"9m1dwhlt"}
+{"time":"2025-03-17T18:06:17.8369408+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T18:06:30.9711567+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T18:06:30.9743135+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T18:06:32.0822302+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.3079667,"progress":"376B/376B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3079667,"progress":"237B/237B"},{"desc":"uploading config.yaml","runtime_seconds":0.1642291,"progress":"955B/955B"}],"total_operations":3}}
+{"time":"2025-03-17T18:06:32.2685095+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T18:06:32.8421686+05:30","level":"INFO","msg":"stream: closing","id":"9m1dwhlt"}
+{"time":"2025-03-17T18:06:32.8421686+05:30","level":"INFO","msg":"handler: closed","stream_id":"9m1dwhlt"}
+{"time":"2025-03-17T18:06:32.8431714+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"9m1dwhlt"}
+{"time":"2025-03-17T18:06:32.8631722+05:30","level":"INFO","msg":"sender: closed","stream_id":"9m1dwhlt"}
+{"time":"2025-03-17T18:06:33.0203714+05:30","level":"INFO","msg":"stream: closed","id":"9m1dwhlt"}

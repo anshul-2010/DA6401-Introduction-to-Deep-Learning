@@ -1,0 +1,20 @@
+wandb_version: 1
+
+L2_lamb:
+  value: 0
+activation_f:
+  value: sigmoid
+batch_size:
+  value: 256
+epochs:
+  value: 40
+init_mode:
+  value: random_normal
+learning_rate:
+  value: 0.0001
+num_hidden:
+  value: 4
+num_neurons:
+  value: 64
+optimizer:
+  value: nestorov

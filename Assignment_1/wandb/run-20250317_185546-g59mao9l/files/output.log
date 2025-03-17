@@ -1,0 +1,23 @@
+lr_0.0001_ac_sigmoid_in_random_uniform_op_adam_bs_16_L2_0_ep_20_nn_32_nh_5
+Epoch number : 2
+Training cost:  2.306432189379456 	Validation cost: 2.3071149817229615
+Epoch number : 4
+Training cost:  2.3046369492275125 	Validation cost: 2.305089731989517
+Epoch number : 6
+Training cost:  2.3037398368115714 	Validation cost: 2.304058472189721
+Epoch number : 8
+Training cost:  2.303464744468646 	Validation cost: 2.303729024891623
+Epoch number : 10
+Training cost:  2.303409916485044 	Validation cost: 2.3036549235742396
+Epoch number : 12
+Training cost:  2.3034805393204967 	Validation cost: 2.303727100457921
+Epoch number : 14
+Training cost:  2.303673543749068 	Validation cost: 2.3039423917098043
+Epoch number : 16
+Training cost:  2.3040321305207327 	Validation cost: 2.3043495114367465
+Epoch number : 18
+Training cost:  2.3046305338835142 	Validation cost: 2.305027764688061
+Epoch number : 20
+Training cost:  2.305528212136904 	Validation cost: 2.3060317900483245
+
+Final training cost: 2.3060811094471467

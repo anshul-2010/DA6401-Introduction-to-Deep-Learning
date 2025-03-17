@@ -1,0 +1,13 @@
+mse_lr_0.001_ac_tanh_in_xavier_op_nestorov_bs_16_L2_0_ep_10_nn_128_nh_3
+Epoch number : 2
+Training cost:  0.46332896472821467 	Validation cost: 0.464539706341587
+Epoch number : 4
+Training cost:  0.46332896472821467 	Validation cost: 0.464539706341587
+Epoch number : 6
+Training cost:  0.46332896472821467 	Validation cost: 0.464539706341587
+Epoch number : 8
+Training cost:  0.46332896472821467 	Validation cost: 0.464539706341587
+Epoch number : 10
+Training cost:  0.46332896472821467 	Validation cost: 0.464539706341587
+
+Final training cost: 0.46332896472821467

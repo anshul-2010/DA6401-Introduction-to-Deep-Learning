@@ -1,0 +1,43 @@
+lr_0.001_ac_tanh_in_xavier_op_momentum_bs_128_L2_0.5_ep_40_nn_32_nh_5
+Epoch number : 2
+Training cost:  1.9206278525751477 	Validation cost: 1.9348331506063243
+Epoch number : 4
+Training cost:  1.5042175722943538 	Validation cost: 1.5205342514358384
+Epoch number : 6
+Training cost:  1.2673810497808162 	Validation cost: 1.284240548150127
+Epoch number : 8
+Training cost:  1.1041749844743043 	Validation cost: 1.1218647683903262
+Epoch number : 10
+Training cost:  0.9873241534783419 	Validation cost: 1.005715382855657
+Epoch number : 12
+Training cost:  0.903598231334585 	Validation cost: 0.9225160917722737
+Epoch number : 14
+Training cost:  0.8424526643239563 	Validation cost: 0.8617575385563595
+Epoch number : 16
+Training cost:  0.7961846395739374 	Validation cost: 0.8157382344529392
+Epoch number : 18
+Training cost:  0.7598256935197857 	Validation cost: 0.7794897210105973
+Epoch number : 20
+Training cost:  0.7302751920153557 	Validation cost: 0.7499269371203758
+Epoch number : 22
+Training cost:  0.7055677798612279 	Validation cost: 0.7251115617768509
+Epoch number : 24
+Training cost:  0.6844156583121938 	Validation cost: 0.7037846289342052
+Epoch number : 26
+Training cost:  0.6659459220844184 	Validation cost: 0.6850972428188481
+Epoch number : 28
+Training cost:  0.6495523622099532 	Validation cost: 0.6684604597282444
+Epoch number : 30
+Training cost:  0.6348091122162229 	Validation cost: 0.6534601141093144
+Epoch number : 32
+Training cost:  0.6214160036581565 	Validation cost: 0.6398045022413642
+Epoch number : 34
+Training cost:  0.6091602902481029 	Validation cost: 0.6272882158042509
+Epoch number : 36
+Training cost:  0.5978881454043835 	Validation cost: 0.6157648112571547
+Epoch number : 38
+Training cost:  0.5874836347125606 	Validation cost: 0.6051258994299278
+Epoch number : 40
+Training cost:  0.577854212003889 	Validation cost: 0.5952860439867814
+
+Final training cost: 0.5733053213764259

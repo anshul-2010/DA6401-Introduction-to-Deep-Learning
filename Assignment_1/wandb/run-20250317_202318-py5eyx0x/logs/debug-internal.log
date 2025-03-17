@@ -1,0 +1,7 @@
+{"time":"2025-03-17T20:23:18.526848+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\Dell\\Desktop\\Courses\\Sem_VIII\\DA6401\\DA6401-Introduction-to-Deep-Learning\\Assignment_1\\wandb\\run-20250317_202318-py5eyx0x\\logs\\debug-core.log"}
+{"time":"2025-03-17T20:23:18.7091896+05:30","level":"INFO","msg":"created new stream","id":"py5eyx0x"}
+{"time":"2025-03-17T20:23:18.7091896+05:30","level":"INFO","msg":"stream: started","id":"py5eyx0x"}
+{"time":"2025-03-17T20:23:18.7173495+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"py5eyx0x"}
+{"time":"2025-03-17T20:23:18.7196027+05:30","level":"INFO","msg":"sender: started","stream_id":"py5eyx0x"}
+{"time":"2025-03-17T20:23:18.7196027+05:30","level":"INFO","msg":"handler: started","stream_id":"py5eyx0x"}
+{"time":"2025-03-17T20:23:19.4768339+05:30","level":"INFO","msg":"Starting system monitor"}

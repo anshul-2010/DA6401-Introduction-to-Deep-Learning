@@ -1,0 +1,43 @@
+lr_0.0001_ac_sigmoid_in_xavier_op_nadam_bs_32_L2_0.5_ep_40_nn_32_nh_4
+Epoch number : 2
+Training cost:  2.3029390940581864 	Validation cost: 2.3033632038595426
+Epoch number : 4
+Training cost:  2.30288228139571 	Validation cost: 2.3028288516252777
+Epoch number : 6
+Training cost:  2.3028416224440367 	Validation cost: 2.3028243795365344
+Epoch number : 8
+Training cost:  2.3028318757971036 	Validation cost: 2.3028636661826303
+Epoch number : 10
+Training cost:  2.3028305821999853 	Validation cost: 2.302888970696676
+Epoch number : 12
+Training cost:  2.3028304521124143 	Validation cost: 2.30289994284412
+Epoch number : 14
+Training cost:  2.3028303055560264 	Validation cost: 2.302904486423559
+Epoch number : 16
+Training cost:  2.3028300940255324 	Validation cost: 2.3029066345253257
+Epoch number : 18
+Training cost:  2.3028298600900885 	Validation cost: 2.3029079366708896
+Epoch number : 20
+Training cost:  2.302829626628513 	Validation cost: 2.302908949319282
+Epoch number : 22
+Training cost:  2.302829402759589 	Validation cost: 2.3029098686986993
+Epoch number : 24
+Training cost:  2.3028291919322297 	Validation cost: 2.302910763904809
+Epoch number : 26
+Training cost:  2.3028289954862085 	Validation cost: 2.3029116594959858
+Epoch number : 28
+Training cost:  2.3028288139774236 	Validation cost: 2.3029125643930857
+Epoch number : 30
+Training cost:  2.3028286476483744 	Validation cost: 2.3029134819503825
+Epoch number : 32
+Training cost:  2.3028284965938144 	Validation cost: 2.3029144134654533
+Epoch number : 34
+Training cost:  2.3028283608203113 	Validation cost: 2.3029153594087983
+Epoch number : 36
+Training cost:  2.3028282402692524 	Validation cost: 2.3029163198618905
+Epoch number : 38
+Training cost:  2.302828134827357 	Validation cost: 2.302917294680416
+Epoch number : 40
+Training cost:  2.3028280443329128 	Validation cost: 2.3029182835619046
+
+Final training cost: 2.302828004628407

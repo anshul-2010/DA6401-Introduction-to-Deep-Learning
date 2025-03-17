@@ -1,0 +1,23 @@
+lr_0.001_ac_relu_in_random_uniform_op_adam_bs_256_L2_0.5_ep_20_nn_64_nh_5
+Epoch number : 2
+Training cost:  1.9291957726612305 	Validation cost: 1.9209503185673042
+Epoch number : 4
+Training cost:  1.6536910431862006 	Validation cost: 1.64642783916355
+Epoch number : 6
+Training cost:  1.553080332079671 	Validation cost: 1.5473125751967371
+Epoch number : 8
+Training cost:  1.5353651449092254 	Validation cost: 1.5399028036756368
+Epoch number : 10
+Training cost:  1.5018910769374338 	Validation cost: 1.5071578107842372
+Epoch number : 12
+Training cost:  1.4418493317116094 	Validation cost: 1.446056278519659
+Epoch number : 14
+Training cost:  1.386904113597567 	Validation cost: 1.3943158002648006
+Epoch number : 16
+Training cost:  1.3231711412785365 	Validation cost: 1.3405640997409034
+Epoch number : 18
+Training cost:  1.015244406877844 	Validation cost: 1.0187309841417227
+Epoch number : 20
+Training cost:  0.7804296667211924 	Validation cost: 0.7909538812393655
+
+Final training cost: 0.8381108956856882

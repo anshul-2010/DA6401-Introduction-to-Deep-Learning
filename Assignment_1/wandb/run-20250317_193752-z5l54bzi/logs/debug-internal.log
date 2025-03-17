@@ -1,0 +1,7 @@
+{"time":"2025-03-17T19:37:53.116053+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\Dell\\Desktop\\Courses\\Sem_VIII\\DA6401\\DA6401-Introduction-to-Deep-Learning\\Assignment_1\\wandb\\run-20250317_193752-z5l54bzi\\logs\\debug-core.log"}
+{"time":"2025-03-17T19:37:53.3422789+05:30","level":"INFO","msg":"created new stream","id":"z5l54bzi"}
+{"time":"2025-03-17T19:37:53.3518113+05:30","level":"INFO","msg":"stream: started","id":"z5l54bzi"}
+{"time":"2025-03-17T19:37:53.3558074+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"z5l54bzi"}
+{"time":"2025-03-17T19:37:53.356813+05:30","level":"INFO","msg":"handler: started","stream_id":"z5l54bzi"}
+{"time":"2025-03-17T19:37:53.356813+05:30","level":"INFO","msg":"sender: started","stream_id":"z5l54bzi"}
+{"time":"2025-03-17T19:37:54.1880881+05:30","level":"INFO","msg":"Starting system monitor"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T18:26:38.8419579+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\Dell\\Desktop\\Courses\\Sem_VIII\\DA6401\\DA6401-Introduction-to-Deep-Learning\\Assignment_1\\wandb\\run-20250317_182638-pitecc8b\\logs\\debug-core.log"}
+{"time":"2025-03-17T18:26:38.9935958+05:30","level":"INFO","msg":"created new stream","id":"pitecc8b"}
+{"time":"2025-03-17T18:26:38.9935958+05:30","level":"INFO","msg":"stream: started","id":"pitecc8b"}
+{"time":"2025-03-17T18:26:38.9956108+05:30","level":"INFO","msg":"handler: started","stream_id":"pitecc8b"}
+{"time":"2025-03-17T18:26:38.9969395+05:30","level":"INFO","msg":"sender: started","stream_id":"pitecc8b"}
+{"time":"2025-03-17T18:26:38.9969395+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pitecc8b"}
+{"time":"2025-03-17T18:26:39.4644129+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T18:28:39.6103657+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T18:28:39.613091+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T18:28:40.6237804+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 17-19, summary, console lines 19-22","runtime_seconds":0.173258},{"desc":"uploading output.log","runtime_seconds":0.081248,"progress":"1007B/1007B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.081248,"progress":"240B/240B"}],"total_operations":3}}
+{"time":"2025-03-17T18:28:41.4319758+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T18:28:41.8465722+05:30","level":"INFO","msg":"stream: closing","id":"pitecc8b"}
+{"time":"2025-03-17T18:28:41.8465722+05:30","level":"INFO","msg":"handler: closed","stream_id":"pitecc8b"}
+{"time":"2025-03-17T18:28:41.8465722+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"pitecc8b"}
+{"time":"2025-03-17T18:28:41.8475729+05:30","level":"INFO","msg":"sender: closed","stream_id":"pitecc8b"}
+{"time":"2025-03-17T18:28:41.8475729+05:30","level":"INFO","msg":"stream: closed","id":"pitecc8b"}

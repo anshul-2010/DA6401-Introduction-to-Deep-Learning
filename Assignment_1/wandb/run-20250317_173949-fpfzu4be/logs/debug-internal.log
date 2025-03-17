@@ -1,0 +1,16 @@
+{"time":"2025-03-17T17:39:49.556786+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\Dell\\Desktop\\Courses\\Sem_VIII\\DA6401\\DA6401-Introduction-to-Deep-Learning\\Assignment_1\\wandb\\run-20250317_173949-fpfzu4be\\logs\\debug-core.log"}
+{"time":"2025-03-17T17:39:49.9342444+05:30","level":"INFO","msg":"created new stream","id":"fpfzu4be"}
+{"time":"2025-03-17T17:39:49.9342444+05:30","level":"INFO","msg":"stream: started","id":"fpfzu4be"}
+{"time":"2025-03-17T17:39:49.970245+05:30","level":"INFO","msg":"handler: started","stream_id":"fpfzu4be"}
+{"time":"2025-03-17T17:39:49.9898378+05:30","level":"INFO","msg":"sender: started","stream_id":"fpfzu4be"}
+{"time":"2025-03-17T17:39:49.9898378+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"fpfzu4be"}
+{"time":"2025-03-17T17:39:50.6975704+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T17:41:18.6574181+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T17:41:18.6585297+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T17:41:19.6874546+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.0832019,"progress":"380B/380B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.0832019,"progress":"247B/247B"}],"total_operations":2}}
+{"time":"2025-03-17T17:41:20.3281898+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T17:41:20.7463454+05:30","level":"INFO","msg":"stream: closing","id":"fpfzu4be"}
+{"time":"2025-03-17T17:41:20.7463454+05:30","level":"INFO","msg":"handler: closed","stream_id":"fpfzu4be"}
+{"time":"2025-03-17T17:41:20.7463454+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"fpfzu4be"}
+{"time":"2025-03-17T17:41:20.7783186+05:30","level":"INFO","msg":"sender: closed","stream_id":"fpfzu4be"}
+{"time":"2025-03-17T17:41:20.7798552+05:30","level":"INFO","msg":"stream: closed","id":"fpfzu4be"}

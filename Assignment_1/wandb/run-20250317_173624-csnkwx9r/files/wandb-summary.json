@@ -1,0 +1,1 @@
+{"training_loss":0.6278478579729427,"_wandb":{"runtime":192},"_timestamp":1.7422133760692472e+09,"_step":39,"validation cost":0.6380966933129697,"validation_accuracy":0.7655,"epoch":41,"_runtime":191.6986764,"training_acc":0.767537037037037}

@@ -1,0 +1,13 @@
+lr_0.001_ac_relu_in_random_normal_op_momentum_bs_16_L2_0_ep_10_nn_128_nh_4
+Epoch number : 2
+Training cost:  0.44999977660492824 	Validation cost: 0.45000024978784814
+Epoch number : 4
+Training cost:  0.4499996390459783 	Validation cost: 0.4500010101514849
+Epoch number : 6
+Training cost:  0.44999953883415683 	Validation cost: 0.4500017539707205
+Epoch number : 8
+Training cost:  0.4499994601260759 	Validation cost: 0.4500024687892457
+Epoch number : 10
+Training cost:  0.4499993894511371 	Validation cost: 0.4500031448075855
+
+Final training cost: 0.44999935677665154

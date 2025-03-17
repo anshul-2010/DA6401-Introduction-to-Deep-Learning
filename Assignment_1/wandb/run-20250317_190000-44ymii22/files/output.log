@@ -1,0 +1,13 @@
+lr_0.001_ac_relu_in_xavier_op_sgd_bs_16_L2_0_ep_10_nn_128_nh_3
+Epoch number : 2
+Training cost:  0.8183638820891332 	Validation cost: 0.8315925850998127
+Epoch number : 4
+Training cost:  0.5651039271852794 	Validation cost: 0.5785435075760341
+Epoch number : 6
+Training cost:  0.4979432778570875 	Validation cost: 0.5110862215061894
+Epoch number : 8
+Training cost:  0.4633544805120498 	Validation cost: 0.4766037076667399
+Epoch number : 10
+Training cost:  0.44084655891132035 	Validation cost: 0.45454881852327733
+
+Final training cost: 0.43186455578226596

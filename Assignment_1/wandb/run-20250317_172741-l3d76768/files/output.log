@@ -1,0 +1,13 @@
+lr_0.0001_ac_tanh_in_random_uniform_op_nadam_bs_256_L2_0.0005_ep_10_nn_64_nh_3
+Epoch number : 2
+Training cost:  2.289688405079597 	Validation cost: 2.2886364649405317
+Epoch number : 4
+Training cost:  1.689015705181012 	Validation cost: 1.6922285655852574
+Epoch number : 6
+Training cost:  1.6571362393523508 	Validation cost: 1.662260827769129
+Epoch number : 8
+Training cost:  1.606347793222423 	Validation cost: 1.6120638457986385
+Epoch number : 10
+Training cost:  1.2119666932727768 	Validation cost: 1.217591642554451
+
+Final training cost: 1.108315823827169

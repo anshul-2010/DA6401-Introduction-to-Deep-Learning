@@ -1,0 +1,13 @@
+lr_0.001_ac_tanh_in_xavier_op_adam_bs_64_L2_0.5_ep_10_nn_128_nh_3
+Epoch number : 2
+Training cost:  0.6826545223030521 	Validation cost: 0.6941973988077433
+Epoch number : 4
+Training cost:  0.591374147889387 	Validation cost: 0.6021749506677166
+Epoch number : 6
+Training cost:  0.55319015088896 	Validation cost: 0.5612266313625937
+Epoch number : 8
+Training cost:  0.5440531510033093 	Validation cost: 0.5529883073516374
+Epoch number : 10
+Training cost:  0.5492868890834175 	Validation cost: 0.5580767169462114
+
+Final training cost: 0.5667341665950186

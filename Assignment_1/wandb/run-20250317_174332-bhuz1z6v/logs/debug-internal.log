@@ -1,0 +1,16 @@
+{"time":"2025-03-17T17:43:32.4609347+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\Dell\\Desktop\\Courses\\Sem_VIII\\DA6401\\DA6401-Introduction-to-Deep-Learning\\Assignment_1\\wandb\\run-20250317_174332-bhuz1z6v\\logs\\debug-core.log"}
+{"time":"2025-03-17T17:43:32.6389601+05:30","level":"INFO","msg":"created new stream","id":"bhuz1z6v"}
+{"time":"2025-03-17T17:43:32.6409562+05:30","level":"INFO","msg":"stream: started","id":"bhuz1z6v"}
+{"time":"2025-03-17T17:43:32.7119552+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"bhuz1z6v"}
+{"time":"2025-03-17T17:43:32.7129558+05:30","level":"INFO","msg":"sender: started","stream_id":"bhuz1z6v"}
+{"time":"2025-03-17T17:43:32.7129558+05:30","level":"INFO","msg":"handler: started","stream_id":"bhuz1z6v"}
+{"time":"2025-03-17T17:43:33.2587115+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T17:55:24.4990533+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T17:55:24.5044906+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T17:55:25.5198736+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.4171779},{"desc":"uploading wandb-summary.json","runtime_seconds":0.1119769,"progress":"243B/243B"},{"desc":"uploading output.log","runtime_seconds":0.1119769,"progress":"1.9KB/1.9KB"}],"total_operations":3}}
+{"time":"2025-03-17T17:55:26.8445632+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T17:55:27.4188712+05:30","level":"INFO","msg":"stream: closing","id":"bhuz1z6v"}
+{"time":"2025-03-17T17:55:27.4628707+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"bhuz1z6v"}
+{"time":"2025-03-17T17:55:27.4639103+05:30","level":"INFO","msg":"sender: closed","stream_id":"bhuz1z6v"}
+{"time":"2025-03-17T17:55:27.4704392+05:30","level":"INFO","msg":"handler: closed","stream_id":"bhuz1z6v"}
+{"time":"2025-03-17T17:55:27.4707132+05:30","level":"INFO","msg":"stream: closed","id":"bhuz1z6v"}
