@@ -100,3 +100,4 @@ The function NN_evaluate() takes the parameters, the activation function, train 
 ```python
 
 ```
+Report Link: https://api.wandb.ai/links/anshul_2010-indian-institute-of-technology-madras/9ddtmy77
