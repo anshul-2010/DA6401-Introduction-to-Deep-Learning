@@ -83,10 +83,6 @@ The function returns
 
 The function contains 2 loops, one epoch loop and one batch loop. Note the optimizers are not implemented with those loops instead they are called as parameter updates hence the nomenclature update_params_sgd etc. Hence to include a new optimiser routine, we simply need to include a function that can update the parameters in each epoch in each batch. The necessary spaces and instructions regarding nesterov is provided in the source code with comments.
 
-A summary of the update stages is given below:
-
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vRnI9A0_7lNuYrqttPBRGDNwlSrqfC-9AFVn8lQ8O82dgzuZQrGpnt5rFzIHchEFzA0med69H4FzMiN/pub?w=960&amp;h=720">
-
 **2. NN_predict()**
 
 The function NN_predict() takes the parameters, the activation function and the data for which predictions are to be made, performs one pass by forward propagation and returns the output labels.
