@@ -1,4 +1,4 @@
-# CNN-Based Classification on iNaturalist 12K Dataset
+# Transfer Learning with Pretrained CNN-Based Classification on iNaturalist 12K Dataset
 This sub-repository contains a complete workflow for training, evaluating, and interpreting a CNN-based image classifier on the [iNaturalist 12K dataset](https://www.kaggle.com/competitions/inaturalist-2021-fgvc8/data) using multiple pretrained CNN architectures (ResNet, MobileNet, Inception, etc.) with transfer learning and fine-tuning. It includes a hyperparameter sweep using Weights & Biases (W&B) to find optimal configurations.
 ## Project Structure
 
@@ -73,7 +73,7 @@ Defines the pretrained CNN architecture imports used for training and evaluation
 
 - Modify this file if you want to try a different architecture or add dropout/batchnorm layers.
 - It includes the following models
-- - ResNet
+  - ResNet
   - MobileNet
   - Inception
   - InceptionResNet
