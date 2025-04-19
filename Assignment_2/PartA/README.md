@@ -1,7 +1,7 @@
 # CNN-Based Classification on iNaturalist 12K Dataset
 This sub-repository contains a complete workflow for training, evaluating, and interpreting a CNN-based image classifier on the [iNaturalist 12K dataset](https://www.kaggle.com/competitions/inaturalist-2021-fgvc8/data). The implementation includes training, evaluation, filter visualization, guided backpropagation, and hyperparameter tuning using Weights & Biases sweeps.
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 .
@@ -14,14 +14,14 @@ This sub-repository contains a complete workflow for training, evaluating, and i
 ├── run_sweep.py
 ├── sweep_config.py
 ├── train.py
-├── Stag1_training.ipynb
-├── Stage2_evaluation.ipynb
+├── PartA_Q2.ipynb
+├── PartA_Q4.ipynb
 └── README.md
 ```
 
 ---
 
-## 🔧 Setup Instructions
+## Setup Instructions
 
 ### 1. **Install Dependencies**
 
@@ -43,7 +43,7 @@ wandb login
 
 ---
 
-## 📁 Dataset Structure
+## Dataset Structure
 
 Place the `inaturalist_12K` dataset in a folder named `../Data/inaturalist_12K/` relative to this repo. The structure should be:
 
@@ -61,9 +61,9 @@ inaturalist_12K/
 
 ---
 
-## 🚀 Tasks and Files
+## Tasks and Files
 
-### 🔹 1. `cnn_model.py`
+### 1. `cnn_model.py`
 
 Defines the CNN architecture used for training and evaluation.
 
@@ -71,7 +71,7 @@ Defines the CNN architecture used for training and evaluation.
 
 ---
 
-### 🔹 2. `dataloader.py`
+### 2. `dataloader.py`
 
 Handles image loading, transformation, and batch generation using PyTorch `DataLoader`.
 
@@ -80,7 +80,7 @@ Handles image loading, transformation, and batch generation using PyTorch `DataL
 
 ---
 
-### 🔹 3. `train.py`
+### 3. `train.py`
 
 Main training script using the model and dataloader.
 
@@ -89,7 +89,7 @@ Main training script using the model and dataloader.
 
 ---
 
-### 🔹 4. `evaluate.py`
+### 4. `evaluate.py`
 
 Evaluate a trained model on the test dataset.
 
@@ -98,7 +98,7 @@ Evaluate a trained model on the test dataset.
 
 ---
 
-### 🔹 5. `filter_visualization.py`
+### 5. `filter_visualization.py`
 
 Visualizes the learned filters of the first convolutional layer and the corresponding feature maps.
 
@@ -110,7 +110,7 @@ python filter_visualization.py --model_path ./TrainedModel/Best_Model.pth
 
 ---
 
-### 🔹 6. `guided_backpropagation.py`
+### 6. `guided_backpropagation.py`
 
 Implements guided backpropagation to visualize input regions responsible for specific class activations.
 
@@ -122,7 +122,7 @@ python guided_backpropagation.py --model_path ./TrainedModel/Best_Model.pth --ta
 
 ---
 
-### 🔹 7. `predict.py`
+### 7. `predict.py`
 
 Make a prediction on a single image.
 
@@ -134,7 +134,7 @@ python predict.py --image_path sample.jpg --model_path ./TrainedModel/Best_Model
 
 ---
 
-### 🔹 8. `run_sweep.py` & `sweep_config.py`
+### 8. `run_sweep.py` & `sweep_config.py`
 
 Used for hyperparameter tuning with Weights & Biases sweeps.
 
@@ -146,20 +146,20 @@ wandb sweep sweep_config.py
 python run_sweep.py
 ```
 
-## 📒 Notebooks
+## Notebooks
 
-### 🔹 `PartA_Q2.ipynb`
+### `PartA_Q2.ipynb`
 
 - Interactive notebook for training and inspecting model behavior.
 - Useful for experimenting with small datasets or settings.
 
-### 🔹 `PartA_Q4.ipynb`
+### `PartA_Q4.ipynb`
 
 - Loads the best model, evaluates it on test data.
 - Includes confusion matrix, misclassified samples, and visualization of feature importance.
 
 
-## 📌 Example Training Command
+## Example Training Command
 
 ```bash
 python run_sweep.py
@@ -167,13 +167,15 @@ python run_sweep.py
 
 ---
 
-## 📌 Example Evaluation Command
+## Example Evaluation Command
 
 ```bash
 python evaluate.py
+python filter_visualization.py
+python guided_backpropagation.py
 ```
 
-## 🧪 Notes
+## Notes
 
 - Make sure to adjust GPU/CPU device settings in each file as needed.
 - For large batch sizes, ensure enough VRAM is available or reduce image resolution.
