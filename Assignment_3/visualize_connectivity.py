@@ -1,6 +1,5 @@
 # Imports for visualising the model connectivity
 from sklearn.preprocessing import MinMaxScaler
-from keras.callbacks import ModelCheckpoint
 
 from IPython.display import HTML as html_print
 from IPython.display import display
